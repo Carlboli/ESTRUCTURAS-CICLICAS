@@ -112,3 +112,19 @@ document.write(fibonacci(n))
 // document.write("----------------------<br>");
 // document.write("valor de ventas dia : " + totalVentaDia + "<br>");
 // document.write("numero de clientes " + totalClientes + "<br>");
+
+
+//punto 6 y 7 
+// let x = 0
+// let intervalo = Number(prompt("digite intervalo"))
+// while (x <= 30) {
+//   document.write(x+",")
+//   x = x + intervalo
+// }
+// let x = 30
+// let intervalo = Number(prompt("digite intervalo"))
+// while (x >= 1) {
+//   document.write(x+"<br>")
+//   x = x - intervalo
+// }
+
