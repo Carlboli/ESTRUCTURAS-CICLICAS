@@ -128,3 +128,20 @@ document.write(fibonacci(n))
 //   x = x - intervalo
 // }
 
+//punto 12
+// let filas = Number(prompt("digite el numero de filas"))
+// let columnas = Number(prompt("digite el numero de columnas"))
+// let numeros = 1
+// document.write("<table border='1'>")
+// for(let x = 1; x <= filas; x++){
+//     document.write("<tr>")
+//     for(let y  = 1; y <= columnas; y++){
+//         document.write("<td>")
+//         document.write(numeros++)
+//         document.write("</td>")
+//     }
+
+//     document.write("</tr>")
+
+// }
+// document.write("</table>")
